@@ -1,5 +1,6 @@
 {
-  "name": "",
+  "name": "lighthub",
+  "description": "Tus recursos de desarrollo web en un solo lugar",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
